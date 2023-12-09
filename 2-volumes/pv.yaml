@@ -17,6 +17,7 @@ spec:
     path: /dir/path/on/nfs/server
     server: nfs-server-ip-address
 
+
 ---
 apiVersion: v1
 kind: PersistentVolume
